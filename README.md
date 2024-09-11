@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi
 
 
 - 🔭 I’m currently working on a Video Sharing website and a Rubiks cube teacher/solver
