@@ -10,5 +10,5 @@
 
 Links to projects (also check out my reporsitories)
 
-- [RubiksSolver] - https://rubiks-five.vercel.app/
+- [RubiksSolver] - https://rubiks-five.vercel.app/ - Work in progress
 - [Video Sharing Site] - coming soon
