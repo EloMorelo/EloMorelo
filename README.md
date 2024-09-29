@@ -11,4 +11,4 @@
 Links to projects (also check out my reporsitories)
 
 - [RubiksSolver] - https://rubiks-five.vercel.app/ - Work in progress
-- [Video Sharing Site] - Work in progress
+- [Video Sharing Site] - http://34.118.67.67/ Work in progress
