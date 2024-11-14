@@ -11,3 +11,4 @@
 Links to projects (also check out my reporsitories)
 
 - [RubiksSolver] - https://rubiks-five.vercel.app/ - Work in progress
+- [StudentManagementSystem] https://managingstudentsjava.azurewebsites.net/login - Work in progress
